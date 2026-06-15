@@ -1,7 +1,7 @@
 import { FaLinkedin, FaFacebook, FaInstagram, FaGithub } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 import { Link } from "react-router-dom";
-import avatar from "../assets/avatar.jpeg";
+import avatar from "../assets/avatar.jpg";
 import "../styles/Sidebar.css";
 
 const Sidebar = () => {
